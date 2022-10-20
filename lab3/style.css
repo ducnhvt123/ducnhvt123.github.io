@@ -26,11 +26,11 @@
 }
 .quick-box{
     margin: 30px;
-    border: 1px solid rgb(207, 189, 189);
+    border: 1px solid rgb(255, 255, 255);
 }
 .quick-button{
     padding:10px;
-   border:1px solid rgb(207, 189, 189);
+   border:1px solid rgb(255, 255, 255);
    background: rgb(249,249,249);
    font-size: 20px;
    font-weight: 500;
@@ -50,11 +50,11 @@
     margin:30px;
 }
 .create-pro{
-    border:1px solid rgb(207, 189, 189);
+    border:1px solid rgb(249, 249, 249);
 }
 .create-box{
     padding:20px;
-    border:1px solid rgb(207, 189, 189);
+    border:1px solid rgb(255, 255, 255);
     background: rgb(249,249,249);
 }
 .create-pro h2{
@@ -72,8 +72,14 @@ table{
 }
 tbody {
   
-    background: rgb(207, 189, 189);
+    background: rgb(255, 255, 255);
 }
 tbody td{
     padding:10px;
+}
+.create pre{
+    font-size: 20px;
+} 
+thead{
+    background-color: rgb(186, 168, 168);
 }
